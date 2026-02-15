@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "title": "AGIPOCKET",
+    "subtitle": "The trust bridge between users, digital assets, and AI-driven actions. Define intent, delegate execution, retain full authority."
+  },
+  "buttons": {
+    "github": "Github",
+    "twitter": "Twitter / X",
+    "download": "Download Extension",
+    "agent": "I am agent (skill.md)"
+  },
+  "features": {
+    "identity": {
+      "title": "Identity & Ownership",
+      "desc": "The wallet represents you as the final owner. No matter how autonomous the agent, you hold signing authority."
+    },
+    "execution": {
+      "title": "Agent Execution",
+      "desc": "Enable AI agents to complete complex tasks in bounded permission scopes with human confirmation."
+    },
+    "intent": {
+      "title": "Intent & Approval",
+      "desc": "Translate complex requests into clear decisions. Approve or reject with progressive delegation guardrails."
+    }
+  },
+  "vision": {
+    "title": "From Apps to Delegated Outcomes",
+    "desc": "AGIPOCKET is infrastructure for safe autonomous operation where AI can be financially useful without making users financially vulnerable."
+  },
+  "loading": "INITIALIZING AGIPOCKET...",
+  "footer": "© {{year}} AGIPOCKET · by Solcraft"
+}

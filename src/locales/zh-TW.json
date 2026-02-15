@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "title": "AGIPOCKET",
+    "subtitle": "連接使用者、數位資產與 AI 行動的信任橋樑。定義意圖，委託執行，保留最終主權。"
+  },
+  "buttons": {
+    "github": "Github",
+    "twitter": "Twitter / X",
+    "download": "下載外掛",
+    "agent": "I am agent (skill.md)"
+  },
+  "features": {
+    "identity": {
+      "title": "身份與所有權",
+      "desc": "錢包代表你作為最終所有者。無論 Agent 多自動化，簽名主權始終在你手中。"
+    },
+    "execution": {
+      "title": "Agent 執行",
+      "desc": "讓 AI Agent 在受限權限範圍內完成複雜任務，並由人類進行關鍵確認。"
+    },
+    "intent": {
+      "title": "意圖與審批",
+      "desc": "將複雜請求轉為清晰決策，透過漸進式委託與護欄進行批准或拒絕。"
+    }
+  },
+  "vision": {
+    "title": "從應用點擊到委託結果",
+    "desc": "AGIPOCKET 是安全自動化執行基礎設施，讓 AI 在金融上有用，同時不讓使用者暴露於無邊界風險。"
+  },
+  "loading": "正在初始化 AGIPOCKET...",
+  "footer": "© {{year}} AGIPOCKET · by Solcraft"
+}
